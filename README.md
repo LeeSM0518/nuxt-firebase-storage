@@ -1,5 +1,8 @@
 # nuxt-firebase-storage
 
+## Tutorial Document
+https://floracion.github.io/firebase/nuxt/2021/11/22/firebase-cloud-storage-tutorial.html
+
 ## Build Setup
 
 ```bash
